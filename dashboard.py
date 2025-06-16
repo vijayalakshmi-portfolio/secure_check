@@ -129,9 +129,7 @@ if page == '🏠 Overview':
 # Deep Dive Analytics
 # --------------------------------------
 elif page == '📈 Deep Dive':
-    st.title("⚙️ Operations")
-    st.info("Feature coming soon: Add/Edit stop data, filter by officer/date, and manage users.")
-
+    st.title("⚙️ Deep Analysis")
     st.header("Advanced Insights")
     category = st.sidebar.selectbox("Choose Category", [
         "🚗 Vehicle-Based", "🢍 Demographic-Based", "🕒 Time-Based",
