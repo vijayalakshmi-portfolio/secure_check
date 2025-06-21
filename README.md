@@ -43,7 +43,7 @@ A Python-SQL Digital Ledger for Police Post Logs
 | Backend      | Python (with `psycopg2`, `SQLAlchemy`) |
 | Database     | PostgreSQL                         |
 | Visualizations | Plotly Express                   |
-| Others       | Pandas, Datetime, Role-based logic |
+| Data Handling       | Pandas|
 
 ---
     
